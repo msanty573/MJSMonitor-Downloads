@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T22:17:13+00:00",
+ "updated": "2026-11-25T22:18:38+00:00",
  "since": "2026-11-25",
  "downloads": 34,
  "by_platform": {
@@ -13,8 +13,11 @@
  },
  "by_file": {
   "MJSMonitor-macOS-arm64.dmg": 0,
+  "MJSMonitor-macOS-x86_64.dmg": 0,
   "MJSMonitor-Setup-arm64.exe": 0,
+  "MJSMonitor-Setup-x64.exe": 0,
   "MJSMonitor-windows-arm64-portable.zip": 0,
+  "MJSMonitor-windows-x64-portable.zip": 0,
   "mjsmonitor.ubuntu.arm64.deb": 0,
   "OmniMonitor-linux-aarch64.tar.gz": 3,
   "OmniMonitor-linux-x86_64.tar.gz": 4,
