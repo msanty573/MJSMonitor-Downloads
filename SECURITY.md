@@ -1,12 +1,12 @@
 # Security policy
 
-Thank you for helping keep OmniMonitor and its users safe.
+Thank you for helping keep MJSMonitor and its users safe.
 
 ## Supported versions
 
-Only the **latest release** of OmniMonitor receives security fixes. **Help → Check for
+Only the **latest release** of MJSMonitor receives security fixes. **Help → Check for
 Updates…** in the app installs it, as do `dnf` and `apt` for the Linux packages. The
-newest downloads are always at <https://mjsapps.net/omnimonitor/>.
+newest downloads are always at <https://mjsapps.net/mjsmonitor/>.
 
 | Version | Supported |
 |---|---|
@@ -24,7 +24,7 @@ them privately in either of these ways:
 
 Please include:
 
-- the OmniMonitor version and build — shown in **Help → About OmniMonitor** (for example
+- the MJSMonitor version and build — shown in **Help → About MJSMonitor** (for example
   *1.0.0, macOS · Apple silicon (arm64)*), or which download or page it affects;
 - your operating system and version;
 - what the problem is and the steps to reproduce it, and what an attacker could do with it.
@@ -40,28 +40,28 @@ Please include:
 
 ## Scope
 
-- The OmniMonitor apps for macOS, Windows and Linux, and their installers and packages.
-- The update information OmniMonitor downloads (`update-*.json`) and the signed `dnf` and
+- The MJSMonitor apps for macOS, Windows and Linux, and their installers and packages.
+- The update information MJSMonitor downloads (`update-*.json`) and the signed `dnf` and
   `apt` repositories at <https://msanty573.github.io/OmniMonitor-Downloads/>.
 
-## How OmniMonitor handles your data
+## How MJSMonitor handles your data
 
-OmniMonitor works on your computer. What you watch, every check result, incidents and the
+MJSMonitor works on your computer. What you watch, every check result, incidents and the
 devices found by Discover are stored locally (on a Mac in
-`~/Library/Application Support/OmniMonitor`) and are never sent to MJS Applications.
+`~/Library/Application Support/MJSMonitor`) and are never sent to MJS Applications.
 Passwords and webhook links (mail server, Teams, Slack, Discord, router) are kept in the
 system keychain.
 
-OmniMonitor talks to the internet only for these:
+MJSMonitor talks to the internet only for these:
 
 - **The checks you set up** — the websites and services you choose to watch.
 - **Alerts and summary emails you turn on** — sent to the mail server, Teams, Slack,
   Discord or ntfy server you enter, containing the name, address and status of the item.
-- **Check for Updates** — OmniMonitor's update information and, when you choose to update,
+- **Check for Updates** — MJSMonitor's update information and, when you choose to update,
   the new version from GitHub, checked against a SHA-256 checksum before use. The daily
   automatic check can be turned off in the **Help** menu.
 - **Maker names** — once a month, the latest list of device makers (no information about
   your network is sent).
 
-Discover's scan stays on your network: OmniMonitor only connects to devices the way any app
+Discover's scan stays on your network: MJSMonitor only connects to devices the way any app
 does and never tries to log in or break in.
