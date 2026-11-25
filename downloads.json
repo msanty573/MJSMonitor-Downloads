@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:00:10+00:00",
+ "updated": "2026-11-25T05:05:48+00:00",
  "since": "2026-11-25",
  "downloads": 21,
  "by_platform": {
@@ -8,7 +8,8 @@
   "macOS": 4
  },
  "by_version": {
-  "unknown": 21
+  "1.0.0": 19,
+  "unknown": 2
  },
  "by_file": {
   "OmniMonitor-linux-aarch64.tar.gz": 2,
