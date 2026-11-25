@@ -1,80 +1,134 @@
 {
  "assets": {
+  "OmniMonitor-Setup-arm64.exe": {
+   "count": 1,
+   "id": 789653529,
+   "uploaded": "2026-11-25T01:57:27Z",
+   "version": null
+  },
+  "OmniMonitor-Setup-x64.exe": {
+   "count": 2,
+   "id": 789656074,
+   "uploaded": "2026-11-25T01:58:42Z",
+   "version": null
+  },
   "OmniMonitor-linux-aarch64.tar.gz": {
-   "count": 0,
+   "count": 2,
    "id": 789648979,
    "uploaded": "2026-11-25T01:55:53Z",
-   "version": "1.0.0"
+   "version": null
+  },
+  "OmniMonitor-linux-x86_64.tar.gz": {
+   "count": 2,
+   "id": 789652446,
+   "uploaded": "2026-11-25T01:57:02Z",
+   "version": null
   },
   "OmniMonitor-macOS-arm64.dmg": {
-   "count": 0,
+   "count": 2,
    "id": 789641892,
    "uploaded": "2026-11-25T01:52:22Z",
-   "version": "1.0.0"
+   "version": null
   },
   "OmniMonitor-macOS-x86_64.dmg": {
-   "count": 0,
+   "count": 2,
    "id": 789645383,
    "uploaded": "2026-11-25T01:53:57Z",
-   "version": "1.0.0"
+   "version": null
+  },
+  "OmniMonitor-windows-arm64-portable.zip": {
+   "count": 1,
+   "id": 789653530,
+   "uploaded": "2026-11-25T01:57:28Z",
+   "version": null
+  },
+  "OmniMonitor-windows-x64-portable.zip": {
+   "count": 1,
+   "id": 789656076,
+   "uploaded": "2026-11-25T01:58:45Z",
+   "version": null
   },
   "omnimonitor.el10.aarch64.rpm": {
-   "count": 0,
+   "count": 2,
    "id": 789648982,
    "uploaded": "2026-11-25T01:55:53Z",
-   "version": "1.0.0"
+   "version": null
+  },
+  "omnimonitor.el10.x86_64.rpm": {
+   "count": 2,
+   "id": 789652447,
+   "uploaded": "2026-11-25T01:57:00Z",
+   "version": null
   },
   "omnimonitor.ubuntu.amd64.deb": {
-   "count": 0,
+   "count": 2,
    "id": 789651084,
    "uploaded": "2026-11-25T01:56:26Z",
-   "version": "1.0.0"
+   "version": null
   },
   "omnimonitor.ubuntu.arm64.deb": {
-   "count": 0,
+   "count": 2,
    "id": 789648492,
    "uploaded": "2026-11-25T01:55:29Z",
-   "version": "1.0.0"
+   "version": null
   },
   "update-linux-aarch64-deb.json": {
-   "count": 0,
+   "count": 2,
    "id": 789648686,
    "uploaded": "2026-11-25T01:55:32Z",
    "version": "1.0.0"
   },
   "update-linux-aarch64.json": {
-   "count": 0,
+   "count": 3,
    "id": 789649726,
    "uploaded": "2026-11-25T01:55:56Z",
    "version": "1.0.0"
   },
   "update-linux-x86_64-deb.json": {
-   "count": 0,
+   "count": 2,
    "id": 789651347,
    "uploaded": "2026-11-25T01:56:28Z",
    "version": "1.0.0"
   },
+  "update-linux-x86_64.json": {
+   "count": 6,
+   "id": 789652893,
+   "uploaded": "2026-11-25T01:57:04Z",
+   "version": null
+  },
   "update-macos-arm64.json": {
-   "count": 0,
+   "count": 3,
    "id": 789642178,
    "uploaded": "2026-11-25T01:52:24Z",
    "version": "1.0.0"
   },
   "update-macos-x86_64.json": {
-   "count": 0,
+   "count": 2,
    "id": 789645722,
    "uploaded": "2026-11-25T01:54:00Z",
    "version": "1.0.0"
+  },
+  "update-windows-arm64.json": {
+   "count": 1,
+   "id": 789653773,
+   "uploaded": "2026-11-25T01:57:31Z",
+   "version": null
+  },
+  "update-windows-x64.json": {
+   "count": 2,
+   "id": 789656973,
+   "uploaded": "2026-11-25T01:58:47Z",
+   "version": null
   }
  },
  "history": [
   {
    "date": "2026-11-25",
-   "downloads": 0,
-   "update_checks": 0
+   "downloads": 21,
+   "update_checks": 21
   }
  ],
  "retired": {},
  "since": "2026-11-25",
- "updated": "2026-11-25T01:56:29+00:00"
+ "updated": "2026-11-25T05:00:10+00:00"
 }

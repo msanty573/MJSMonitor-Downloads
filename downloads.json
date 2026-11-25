@@ -1,34 +1,46 @@
 {
- "updated": "2026-11-25T01:56:29+00:00",
+ "updated": "2026-11-25T05:00:10+00:00",
  "since": "2026-11-25",
- "downloads": 0,
+ "downloads": 21,
  "by_platform": {
-  "Linux": 0,
-  "macOS": 0
+  "Linux": 12,
+  "Windows": 5,
+  "macOS": 4
  },
- "by_version": {},
+ "by_version": {
+  "unknown": 21
+ },
  "by_file": {
-  "OmniMonitor-linux-aarch64.tar.gz": 0,
-  "OmniMonitor-macOS-arm64.dmg": 0,
-  "OmniMonitor-macOS-x86_64.dmg": 0,
-  "omnimonitor.el10.aarch64.rpm": 0,
-  "omnimonitor.ubuntu.amd64.deb": 0,
-  "omnimonitor.ubuntu.arm64.deb": 0
+  "OmniMonitor-linux-aarch64.tar.gz": 2,
+  "OmniMonitor-linux-x86_64.tar.gz": 2,
+  "OmniMonitor-macOS-arm64.dmg": 2,
+  "OmniMonitor-macOS-x86_64.dmg": 2,
+  "OmniMonitor-Setup-arm64.exe": 1,
+  "OmniMonitor-Setup-x64.exe": 2,
+  "OmniMonitor-windows-arm64-portable.zip": 1,
+  "OmniMonitor-windows-x64-portable.zip": 1,
+  "omnimonitor.el10.aarch64.rpm": 2,
+  "omnimonitor.el10.x86_64.rpm": 2,
+  "omnimonitor.ubuntu.amd64.deb": 2,
+  "omnimonitor.ubuntu.arm64.deb": 2
  },
- "update_checks": 0,
+ "update_checks": 21,
  "update_checks_by_file": {
-  "update-linux-aarch64-deb.json": 0,
-  "update-linux-aarch64.json": 0,
-  "update-linux-x86_64-deb.json": 0,
-  "update-macos-arm64.json": 0,
-  "update-macos-x86_64.json": 0
+  "update-linux-aarch64-deb.json": 2,
+  "update-linux-aarch64.json": 3,
+  "update-linux-x86_64-deb.json": 2,
+  "update-linux-x86_64.json": 6,
+  "update-macos-arm64.json": 3,
+  "update-macos-x86_64.json": 2,
+  "update-windows-arm64.json": 1,
+  "update-windows-x64.json": 2
  },
  "note": "downloads = installers and packages downloaded from the downloads page (not installs from the dnf/apt repositories); update_checks = times an installed copy checked for updates",
  "history": [
   {
    "date": "2026-11-25",
-   "downloads": 0,
-   "update_checks": 0
+   "downloads": 21,
+   "update_checks": 21
   }
  ]
 }
