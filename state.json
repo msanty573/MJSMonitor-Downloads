@@ -1,5 +1,11 @@
 {
  "assets": {
+  "OmniMonitor-linux-aarch64.tar.gz": {
+   "count": 0,
+   "id": 789648979,
+   "uploaded": "2026-11-25T01:55:53Z",
+   "version": "1.0.0"
+  },
   "OmniMonitor-macOS-arm64.dmg": {
    "count": 0,
    "id": 789641892,
@@ -10,6 +16,42 @@
    "count": 0,
    "id": 789645383,
    "uploaded": "2026-11-25T01:53:57Z",
+   "version": "1.0.0"
+  },
+  "omnimonitor.el10.aarch64.rpm": {
+   "count": 0,
+   "id": 789648982,
+   "uploaded": "2026-11-25T01:55:53Z",
+   "version": "1.0.0"
+  },
+  "omnimonitor.ubuntu.amd64.deb": {
+   "count": 0,
+   "id": 789651084,
+   "uploaded": "2026-11-25T01:56:26Z",
+   "version": "1.0.0"
+  },
+  "omnimonitor.ubuntu.arm64.deb": {
+   "count": 0,
+   "id": 789648492,
+   "uploaded": "2026-11-25T01:55:29Z",
+   "version": "1.0.0"
+  },
+  "update-linux-aarch64-deb.json": {
+   "count": 0,
+   "id": 789648686,
+   "uploaded": "2026-11-25T01:55:32Z",
+   "version": "1.0.0"
+  },
+  "update-linux-aarch64.json": {
+   "count": 0,
+   "id": 789649726,
+   "uploaded": "2026-11-25T01:55:56Z",
+   "version": "1.0.0"
+  },
+  "update-linux-x86_64-deb.json": {
+   "count": 0,
+   "id": 789651347,
+   "uploaded": "2026-11-25T01:56:28Z",
    "version": "1.0.0"
   },
   "update-macos-arm64.json": {
@@ -34,5 +76,5 @@
  ],
  "retired": {},
  "since": "2026-11-25",
- "updated": "2026-11-25T01:54:36+00:00"
+ "updated": "2026-11-25T01:56:29+00:00"
 }
