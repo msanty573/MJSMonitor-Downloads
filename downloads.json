@@ -1,31 +1,31 @@
 {
- "updated": "2026-11-25T22:42:36+00:00",
+ "updated": "2026-11-25T23:04:07+00:00",
  "since": "2026-11-25",
- "downloads": 46,
+ "downloads": 58,
  "by_platform": {
-  "Linux": 25,
-  "Windows": 13,
-  "macOS": 8
+  "Linux": 31,
+  "Windows": 17,
+  "macOS": 10
  },
  "by_version": {
-  "1.1.0": 12,
+  "1.1.0": 24,
   "1.0.1": 13,
   "1.0.0": 17,
   "unknown": 4
  },
  "by_file": {
-  "MJSMonitor-linux-aarch64.tar.gz": 1,
-  "MJSMonitor-linux-x86_64.tar.gz": 1,
-  "MJSMonitor-macOS-arm64.dmg": 1,
-  "MJSMonitor-macOS-x86_64.dmg": 1,
-  "MJSMonitor-Setup-arm64.exe": 1,
-  "MJSMonitor-Setup-x64.exe": 1,
-  "MJSMonitor-windows-arm64-portable.zip": 1,
-  "MJSMonitor-windows-x64-portable.zip": 1,
-  "mjsmonitor.el10.aarch64.rpm": 1,
-  "mjsmonitor.el10.x86_64.rpm": 1,
-  "mjsmonitor.ubuntu.amd64.deb": 1,
-  "mjsmonitor.ubuntu.arm64.deb": 1,
+  "MJSMonitor-linux-aarch64.tar.gz": 2,
+  "MJSMonitor-linux-x86_64.tar.gz": 2,
+  "MJSMonitor-macOS-arm64.dmg": 2,
+  "MJSMonitor-macOS-x86_64.dmg": 2,
+  "MJSMonitor-Setup-arm64.exe": 2,
+  "MJSMonitor-Setup-x64.exe": 2,
+  "MJSMonitor-windows-arm64-portable.zip": 2,
+  "MJSMonitor-windows-x64-portable.zip": 2,
+  "mjsmonitor.el10.aarch64.rpm": 2,
+  "mjsmonitor.el10.x86_64.rpm": 2,
+  "mjsmonitor.ubuntu.amd64.deb": 2,
+  "mjsmonitor.ubuntu.arm64.deb": 2,
   "OmniMonitor-linux-aarch64.tar.gz": 3,
   "OmniMonitor-linux-x86_64.tar.gz": 4,
   "OmniMonitor-macOS-arm64.dmg": 3,
@@ -39,7 +39,7 @@
   "omnimonitor.ubuntu.amd64.deb": 3,
   "omnimonitor.ubuntu.arm64.deb": 3
  },
- "update_checks": 38,
+ "update_checks": 39,
  "update_checks_by_file": {
   "update-linux-aarch64-deb.json": 4,
   "update-linux-aarch64.json": 5,
@@ -48,14 +48,14 @@
   "update-macos-arm64.json": 5,
   "update-macos-x86_64.json": 4,
   "update-windows-arm64.json": 3,
-  "update-windows-x64.json": 4
+  "update-windows-x64.json": 5
  },
  "note": "downloads = installers and packages downloaded from the downloads page (not installs from the dnf/apt repositories); update_checks = times an installed copy checked for updates",
  "history": [
   {
    "date": "2026-11-25",
-   "downloads": 46,
-   "update_checks": 38
+   "downloads": 58,
+   "update_checks": 39
   }
  ]
 }
