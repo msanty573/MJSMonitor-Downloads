@@ -6,10 +6,22 @@
    "uploaded": "2026-11-25T01:52:22Z",
    "version": "1.0.0"
   },
+  "OmniMonitor-macOS-x86_64.dmg": {
+   "count": 0,
+   "id": 789645383,
+   "uploaded": "2026-11-25T01:53:57Z",
+   "version": "1.0.0"
+  },
   "update-macos-arm64.json": {
    "count": 0,
    "id": 789642178,
    "uploaded": "2026-11-25T01:52:24Z",
+   "version": "1.0.0"
+  },
+  "update-macos-x86_64.json": {
+   "count": 0,
+   "id": 789645722,
+   "uploaded": "2026-11-25T01:54:00Z",
    "version": "1.0.0"
   }
  },
@@ -22,5 +34,5 @@
  ],
  "retired": {},
  "since": "2026-11-25",
- "updated": "2026-11-25T01:52:38+00:00"
+ "updated": "2026-11-25T01:54:36+00:00"
 }
