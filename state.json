@@ -1,43 +1,49 @@
 {
  "assets": {
   "MJSMonitor-Setup-arm64.exe": {
-   "count": 0,
+   "count": 1,
    "id": 793352902,
    "uploaded": "2026-11-25T22:16:25Z",
    "version": "1.1.0"
   },
   "MJSMonitor-Setup-x64.exe": {
-   "count": 0,
+   "count": 1,
    "id": 793358554,
    "uploaded": "2026-11-25T22:18:29Z",
    "version": "1.1.0"
   },
+  "MJSMonitor-linux-aarch64.tar.gz": {
+   "count": 1,
+   "id": 793366470,
+   "uploaded": "2026-11-25T22:21:15Z",
+   "version": "1.1.0"
+  },
   "MJSMonitor-linux-x86_64.tar.gz": {
-   "count": 0,
+   "count": 1,
    "id": 793360836,
    "uploaded": "2026-11-25T22:19:23Z",
    "version": "1.1.0"
   },
   "MJSMonitor-macOS-arm64.dmg": {
-   "count": 0,
+   "count": 1,
    "id": 793341490,
    "uploaded": "2026-11-25T22:12:47Z",
    "version": "1.1.0"
   },
   "MJSMonitor-macOS-x86_64.dmg": {
-   "count": 0,
+   "count": 1,
    "id": 793356007,
    "uploaded": "2026-11-25T22:17:28Z",
    "version": "1.1.0"
   },
   "MJSMonitor-windows-arm64-portable.zip": {
-   "count": 0,
+   "count": 1,
    "id": 793352903,
    "uploaded": "2026-11-25T22:16:26Z",
    "version": "1.1.0"
   },
   "MJSMonitor-windows-x64-portable.zip": {
-   "count": 0,
+   "count": 1,
    "id": 793358558,
    "uploaded": "2026-11-25T22:18:31Z",
    "version": "1.1.0"
@@ -90,17 +96,29 @@
    "uploaded": "2026-11-25T05:25:36Z",
    "version": "1.0.1"
   },
+  "mjsmonitor.el10.aarch64.rpm": {
+   "count": 1,
+   "id": 793366472,
+   "uploaded": "2026-11-25T22:21:12Z",
+   "version": "1.1.0"
+  },
   "mjsmonitor.el10.x86_64.rpm": {
-   "count": 0,
+   "count": 1,
    "id": 793360837,
    "uploaded": "2026-11-25T22:19:21Z",
    "version": "1.1.0"
   },
+  "mjsmonitor.ubuntu.amd64.deb": {
+   "count": 1,
+   "id": 793363685,
+   "uploaded": "2026-11-25T22:20:12Z",
+   "version": "1.1.0"
+  },
   "mjsmonitor.ubuntu.arm64.deb": {
-   "count": 0,
+   "count": 1,
    "id": 793352943,
    "uploaded": "2026-11-25T22:16:26Z",
-   "version": null
+   "version": "1.1.0"
   },
   "omnimonitor.el10.aarch64.rpm": {
    "count": 1,
@@ -127,49 +145,49 @@
    "version": "1.0.1"
   },
   "update-linux-aarch64-deb.json": {
-   "count": 0,
+   "count": 1,
    "id": 793353583,
    "uploaded": "2026-11-25T22:16:29Z",
    "version": "1.1.0"
   },
   "update-linux-aarch64.json": {
    "count": 1,
-   "id": 790158692,
-   "uploaded": "2026-11-25T05:12:04Z",
+   "id": 793367165,
+   "uploaded": "2026-11-25T22:21:17Z",
    "version": "1.1.0"
   },
   "update-linux-x86_64-deb.json": {
    "count": 1,
-   "id": 790146363,
-   "uploaded": "2026-11-25T05:07:37Z",
+   "id": 793364078,
+   "uploaded": "2026-11-25T22:20:14Z",
    "version": "1.1.0"
   },
   "update-linux-x86_64.json": {
-   "count": 0,
+   "count": 1,
    "id": 793361536,
    "uploaded": "2026-11-25T22:19:25Z",
    "version": "1.1.0"
   },
   "update-macos-arm64.json": {
-   "count": 0,
+   "count": 1,
    "id": 793341918,
    "uploaded": "2026-11-25T22:12:51Z",
    "version": "1.1.0"
   },
   "update-macos-x86_64.json": {
-   "count": 0,
+   "count": 1,
    "id": 793356332,
    "uploaded": "2026-11-25T22:17:31Z",
    "version": "1.1.0"
   },
   "update-windows-arm64.json": {
-   "count": 0,
+   "count": 1,
    "id": 793353637,
    "uploaded": "2026-11-25T22:16:30Z",
    "version": "1.1.0"
   },
   "update-windows-x64.json": {
-   "count": 0,
+   "count": 1,
    "id": 793359044,
    "uploaded": "2026-11-25T22:18:34Z",
    "version": "1.1.0"
@@ -178,8 +196,8 @@
  "history": [
   {
    "date": "2026-11-25",
-   "downloads": 34,
-   "update_checks": 30
+   "downloads": 46,
+   "update_checks": 38
   }
  ],
  "retired": {
@@ -224,10 +242,12 @@
    "1.1.0": 1
   },
   "update-linux-aarch64.json": {
-   "1.0.0": 3
+   "1.0.0": 3,
+   "1.1.0": 1
   },
   "update-linux-x86_64-deb.json": {
-   "1.0.0": 2
+   "1.0.0": 2,
+   "1.1.0": 1
   },
   "update-linux-x86_64.json": {
    "1.0.1": 6,
@@ -251,5 +271,5 @@
   }
  },
  "since": "2026-11-25",
- "updated": "2026-11-25T22:20:00+00:00"
+ "updated": "2026-11-25T22:42:36+00:00"
 }
