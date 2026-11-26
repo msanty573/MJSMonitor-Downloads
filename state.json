@@ -1,52 +1,52 @@
 {
  "assets": {
   "MJSMonitor-Setup-arm64.exe": {
-   "count": 1,
-   "id": 793588800,
-   "uploaded": "2026-11-25T23:41:36Z",
-   "version": "1.1.2"
+   "count": 0,
+   "id": 794007905,
+   "uploaded": "2026-11-26T02:28:20Z",
+   "version": null
   },
   "MJSMonitor-Setup-x64.exe": {
    "count": 1,
    "id": 793593130,
    "uploaded": "2026-11-25T23:43:19Z",
-   "version": "1.1.2"
+   "version": null
   },
   "MJSMonitor-linux-aarch64.tar.gz": {
    "count": 1,
    "id": 793601335,
    "uploaded": "2026-11-25T23:46:25Z",
-   "version": "1.1.2"
+   "version": null
   },
   "MJSMonitor-linux-x86_64.tar.gz": {
    "count": 1,
    "id": 793596771,
    "uploaded": "2026-11-25T23:44:26Z",
-   "version": "1.1.2"
+   "version": null
   },
   "MJSMonitor-macOS-arm64.dmg": {
-   "count": 1,
-   "id": 793581609,
-   "uploaded": "2026-11-25T23:38:44Z",
-   "version": "1.1.2"
+   "count": 0,
+   "id": 794002894,
+   "uploaded": "2026-11-26T02:26:23Z",
+   "version": null
   },
   "MJSMonitor-macOS-x86_64.dmg": {
    "count": 1,
    "id": 793593837,
    "uploaded": "2026-11-25T23:43:16Z",
-   "version": "1.1.2"
+   "version": null
   },
   "MJSMonitor-windows-arm64-portable.zip": {
-   "count": 1,
-   "id": 793588799,
-   "uploaded": "2026-11-25T23:41:37Z",
-   "version": "1.1.2"
+   "count": 0,
+   "id": 794007903,
+   "uploaded": "2026-11-26T02:28:22Z",
+   "version": null
   },
   "MJSMonitor-windows-x64-portable.zip": {
    "count": 1,
    "id": 793593124,
    "uploaded": "2026-11-25T23:43:23Z",
-   "version": "1.1.2"
+   "version": null
   },
   "OmniMonitor-Setup-arm64.exe": {
    "count": 1,
@@ -100,25 +100,25 @@
    "count": 1,
    "id": 793601331,
    "uploaded": "2026-11-25T23:46:22Z",
-   "version": "1.1.2"
+   "version": null
   },
   "mjsmonitor.el10.x86_64.rpm": {
    "count": 1,
    "id": 793596762,
    "uploaded": "2026-11-25T23:44:27Z",
-   "version": "1.1.2"
+   "version": null
   },
   "mjsmonitor.ubuntu.amd64.deb": {
    "count": 1,
    "id": 793598436,
    "uploaded": "2026-11-25T23:45:15Z",
-   "version": "1.1.2"
+   "version": null
   },
   "mjsmonitor.ubuntu.arm64.deb": {
    "count": 1,
    "id": 793587550,
    "uploaded": "2026-11-25T23:41:12Z",
-   "version": "1.1.2"
+   "version": null
   },
   "omnimonitor.el10.aarch64.rpm": {
    "count": 1,
@@ -170,9 +170,9 @@
   },
   "update-macos-arm64.json": {
    "count": 0,
-   "id": 793995546,
-   "uploaded": "2026-11-26T02:23:16Z",
-   "version": "1.1.2"
+   "id": 794003130,
+   "uploaded": "2026-11-26T02:26:25Z",
+   "version": null
   },
   "update-macos-x86_64.json": {
    "count": 0,
@@ -182,9 +182,9 @@
   },
   "update-windows-arm64.json": {
    "count": 0,
-   "id": 793995622,
-   "uploaded": "2026-11-26T02:23:17Z",
-   "version": "1.1.2"
+   "id": 794008551,
+   "uploaded": "2026-11-26T02:28:25Z",
+   "version": null
   },
   "update-windows-x64.json": {
    "count": 0,
@@ -207,7 +207,8 @@
  ],
  "retired": {
   "MJSMonitor-Setup-arm64.exe": {
-   "1.1.0": 2
+   "1.1.0": 2,
+   "1.1.2": 1
   },
   "MJSMonitor-Setup-x64.exe": {
    "1.1.0": 2,
@@ -223,6 +224,7 @@
   },
   "MJSMonitor-macOS-arm64.dmg": {
    "1.1.0": 2,
+   "1.1.2": 1,
    "unknown": 0
   },
   "MJSMonitor-macOS-x86_64.dmg": {
@@ -230,7 +232,8 @@
    "1.1.1": 0
   },
   "MJSMonitor-windows-arm64-portable.zip": {
-   "1.1.0": 2
+   "1.1.0": 2,
+   "1.1.2": 1
   },
   "MJSMonitor-windows-x64-portable.zip": {
    "1.1.0": 2,
@@ -322,7 +325,8 @@
   },
   "update-windows-arm64.json": {
    "1.0.1": 1,
-   "1.1.0": 2
+   "1.1.0": 2,
+   "1.1.2": 0
   },
   "update-windows-x64.json": {
    "1.0.1": 2,
@@ -331,5 +335,5 @@
   }
  },
  "since": "2026-11-25",
- "updated": "2026-11-26T02:25:38+00:00"
+ "updated": "2026-11-26T02:28:37+00:00"
 }
