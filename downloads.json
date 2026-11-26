@@ -1,31 +1,32 @@
 {
- "updated": "2026-11-25T23:40:03+00:00",
+ "updated": "2026-11-26T02:25:38+00:00",
  "since": "2026-11-25",
- "downloads": 58,
+ "downloads": 70,
  "by_platform": {
-  "Linux": 31,
-  "Windows": 17,
-  "macOS": 10
+  "Linux": 37,
+  "Windows": 21,
+  "macOS": 12
  },
  "by_version": {
+  "1.1.2": 12,
   "1.1.0": 24,
   "1.0.1": 13,
   "1.0.0": 17,
   "unknown": 4
  },
  "by_file": {
-  "MJSMonitor-linux-aarch64.tar.gz": 2,
-  "MJSMonitor-linux-x86_64.tar.gz": 2,
-  "MJSMonitor-macOS-arm64.dmg": 2,
-  "MJSMonitor-macOS-x86_64.dmg": 2,
-  "MJSMonitor-Setup-arm64.exe": 2,
-  "MJSMonitor-Setup-x64.exe": 2,
-  "MJSMonitor-windows-arm64-portable.zip": 2,
-  "MJSMonitor-windows-x64-portable.zip": 2,
-  "mjsmonitor.el10.aarch64.rpm": 2,
-  "mjsmonitor.el10.x86_64.rpm": 2,
-  "mjsmonitor.ubuntu.amd64.deb": 2,
-  "mjsmonitor.ubuntu.arm64.deb": 2,
+  "MJSMonitor-linux-aarch64.tar.gz": 3,
+  "MJSMonitor-linux-x86_64.tar.gz": 3,
+  "MJSMonitor-macOS-arm64.dmg": 3,
+  "MJSMonitor-macOS-x86_64.dmg": 3,
+  "MJSMonitor-Setup-arm64.exe": 3,
+  "MJSMonitor-Setup-x64.exe": 3,
+  "MJSMonitor-windows-arm64-portable.zip": 3,
+  "MJSMonitor-windows-x64-portable.zip": 3,
+  "mjsmonitor.el10.aarch64.rpm": 3,
+  "mjsmonitor.el10.x86_64.rpm": 3,
+  "mjsmonitor.ubuntu.amd64.deb": 3,
+  "mjsmonitor.ubuntu.arm64.deb": 3,
   "OmniMonitor-linux-aarch64.tar.gz": 3,
   "OmniMonitor-linux-x86_64.tar.gz": 4,
   "OmniMonitor-macOS-arm64.dmg": 3,
@@ -55,6 +56,11 @@
   {
    "date": "2026-11-25",
    "downloads": 58,
+   "update_checks": 39
+  },
+  {
+   "date": "2026-11-26",
+   "downloads": 70,
    "update_checks": 39
   }
  ]
