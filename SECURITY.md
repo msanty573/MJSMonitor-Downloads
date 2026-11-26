@@ -42,7 +42,7 @@ Please include:
 
 - The MJSMonitor apps for macOS, Windows and Linux, and their installers and packages.
 - The update information MJSMonitor downloads (`update-*.json`) and the signed `dnf` and
-  `apt` repositories at <https://msanty573.github.io/OmniMonitor-Downloads/>.
+  `apt` repositories at <https://msanty573.github.io/MJSMonitor-Downloads/>.
 
 ## How MJSMonitor handles your data
 
