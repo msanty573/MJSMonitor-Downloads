@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T02:28:37+00:00",
+ "updated": "2026-11-26T02:31:11+00:00",
  "since": "2026-11-25",
  "downloads": 70,
  "by_platform": {
@@ -8,11 +8,11 @@
   "macOS": 12
  },
  "by_version": {
-  "1.1.2": 3,
+  "1.1.2": 8,
   "1.1.0": 24,
   "1.0.1": 13,
   "1.0.0": 17,
-  "unknown": 13
+  "unknown": 8
  },
  "by_file": {
   "MJSMonitor-linux-aarch64.tar.gz": 3,
