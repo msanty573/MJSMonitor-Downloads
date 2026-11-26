@@ -1,0 +1,30 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: MJSMonitor
+Label: MJSMonitor
+Date: Thu, 26 Nov 2026 03:36:52 UTC
+Architectures: amd64 arm64
+Description: MJSMonitor apt repository
+MD5Sum:
+ 0d0b929dd629394a35ec15d72c85626e 1900 Packages
+ d2d4e9c86c7b07c8482776929e56381c 745 Packages.gz
+SHA256:
+ 12f5a3b80c25cd28f90ee8c454fcf266ffba145690cc38777f7d598ee700d7f1 1900 Packages
+ 2b07ef9ca705681f3d1ba5f0828b372718903a50c36233ad2f6465c99c993925 745 Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEzlbfRHdQ/yvFytwwL9CJYVdX0xkFAmsHqVQACgkQL9CJYVdX
+0xmH9g/+LeK/AFrkR8J01wmIDSa9ZFYe7jMIRpneEilgVagLa7N38rLbm5RvnHCH
+kxcmp7cuYxGGCu6OQwQUwW8xbJiPhQMqAlF288mJ2mRdkf2d4TtmRgcWIgZuIQbb
+fTqPQKupyNtw4GGK22omjy5am/lAmpj02OCn6ggP/CDon7xxUpEtoBbe0HKTb6y/
+QfMqwjx67lfIDA7MAeTOmFCofbvjIMOEkrlHEPocGxeS+OqenrPeML1yGt/66I67
+V362A8e9cvZhmuXHLbICi0nKPqexYyWmovOpcGAGFmVWeuQrPteO+udp9taSaYco
+AVYvYOXyKkm8w9yWyBarW6YNeVN+uLI0p7fo60pLLDrK2L0lNyP+u1nWWJMYpBIn
+TWmevS+muJI0GNuLZJ5qNC96H+oYktmmZAY27kgYt02kxDIDhSXzoBSIu9cj/yIj
+LCXzoAJRifDfwzlQ5GKDN7IVUravzciRYxgf51RbPAmiLXfh0Dd2o4+X4MFDWbVc
+oJy1ksQDYCkQb6KrLE+ywoQSk9eioDtguW2gv6oPl4vCEsVvv/BFjjR90H9us9fl
+vdzVztYRIyrvHl6CSLWWz4sfHbMP8mbGnL3ty9fq/auwazzZ4950qXUpx/Ewc0q+
+8yNyUmCv6uGRwb5qtV1Nzx5fWhnGA4gQFPoMDWcGw223qldkjuo=
+=QZGT
+-----END PGP SIGNATURE-----

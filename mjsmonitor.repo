@@ -1,0 +1,7 @@
+[mjsmonitor]
+name=MJSMonitor
+baseurl=https://msanty573.github.io/MJSMonitor-Downloads/rpm/el10/$basearch/
+enabled=1
+gpgcheck=1
+gpgkey=https://msanty573.github.io/MJSMonitor-Downloads/RPM-GPG-KEY-mjsmonitor
+metadata_expire=6h

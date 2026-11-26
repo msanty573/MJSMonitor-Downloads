@@ -1,0 +1,11 @@
+Origin: MJSMonitor
+Label: MJSMonitor
+Date: Thu, 26 Nov 2026 03:36:52 UTC
+Architectures: amd64 arm64
+Description: MJSMonitor apt repository
+MD5Sum:
+ 0d0b929dd629394a35ec15d72c85626e 1900 Packages
+ d2d4e9c86c7b07c8482776929e56381c 745 Packages.gz
+SHA256:
+ 12f5a3b80c25cd28f90ee8c454fcf266ffba145690cc38777f7d598ee700d7f1 1900 Packages
+ 2b07ef9ca705681f3d1ba5f0828b372718903a50c36233ad2f6465c99c993925 745 Packages.gz

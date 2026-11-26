@@ -1,0 +1,22 @@
+<!doctype html>
+<meta charset="utf-8"><title>MJSMonitor repositories</title>
+<h1>MJSMonitor package repositories</h1>
+<h2>dnf (RHEL, AlmaLinux, Rocky, Fedora)</h2>
+<ul>
+<li>MJSMonitor 1.1.3 (el10, 64-bit ARM)</li>
+<li>MJSMonitor 1.1.3 (el10, 64-bit Intel/AMD)</li>
+</ul>
+<p>Add the repository once, then MJSMonitor updates with the rest of the system:</p>
+<pre>sudo rpm --import https://msanty573.github.io/MJSMonitor-Downloads/RPM-GPG-KEY-mjsmonitor
+sudo curl -o /etc/yum.repos.d/mjsmonitor.repo https://msanty573.github.io/MJSMonitor-Downloads/mjsmonitor.repo
+sudo dnf install mjsmonitor</pre>
+<h2>apt (Ubuntu 26.04 and newer)</h2>
+<ul>
+<li>MJSMonitor 1.1.3 (64-bit Intel/AMD)</li>
+<li>MJSMonitor 1.1.3 (64-bit ARM)</li>
+</ul>
+<p>Installing the package also adds this repository, so MJSMonitor then updates with
+the rest of the system:</p>
+<pre>wget https://github.com/msanty573/MJSMonitor-Downloads/releases/download/latest/mjsmonitor.ubuntu.$(dpkg --print-architecture).deb
+sudo apt install ./mjsmonitor.ubuntu.*.deb</pre>
+<p>More downloads: <a href="https://mjsapps.net/mjsmonitor/">mjsapps.net/mjsmonitor</a></p>
