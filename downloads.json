@@ -1,13 +1,14 @@
 {
- "updated": "2026-11-26T02:33:18+00:00",
+ "updated": "2026-11-26T04:12:58+00:00",
  "since": "2026-11-25",
- "downloads": 78,
+ "downloads": 90,
  "by_platform": {
-  "Linux": 45,
-  "Windows": 21,
-  "macOS": 12
+  "Linux": 51,
+  "Windows": 25,
+  "macOS": 14
  },
  "by_version": {
+  "1.1.3": 12,
   "1.1.2": 16,
   "1.1.0": 24,
   "1.0.1": 13,
@@ -15,18 +16,18 @@
   "unknown": 8
  },
  "by_file": {
-  "MJSMonitor-linux-aarch64.tar.gz": 5,
-  "MJSMonitor-linux-x86_64.tar.gz": 5,
-  "MJSMonitor-macOS-arm64.dmg": 3,
-  "MJSMonitor-macOS-x86_64.dmg": 3,
-  "MJSMonitor-Setup-arm64.exe": 3,
-  "MJSMonitor-Setup-x64.exe": 3,
-  "MJSMonitor-windows-arm64-portable.zip": 3,
-  "MJSMonitor-windows-x64-portable.zip": 3,
-  "mjsmonitor.el10.aarch64.rpm": 5,
-  "mjsmonitor.el10.x86_64.rpm": 5,
-  "mjsmonitor.ubuntu.amd64.deb": 3,
-  "mjsmonitor.ubuntu.arm64.deb": 3,
+  "MJSMonitor-linux-aarch64.tar.gz": 6,
+  "MJSMonitor-linux-x86_64.tar.gz": 6,
+  "MJSMonitor-macOS-arm64.dmg": 4,
+  "MJSMonitor-macOS-x86_64.dmg": 4,
+  "MJSMonitor-Setup-arm64.exe": 4,
+  "MJSMonitor-Setup-x64.exe": 4,
+  "MJSMonitor-windows-arm64-portable.zip": 4,
+  "MJSMonitor-windows-x64-portable.zip": 4,
+  "mjsmonitor.el10.aarch64.rpm": 6,
+  "mjsmonitor.el10.x86_64.rpm": 6,
+  "mjsmonitor.ubuntu.amd64.deb": 4,
+  "mjsmonitor.ubuntu.arm64.deb": 4,
   "OmniMonitor-linux-aarch64.tar.gz": 3,
   "OmniMonitor-linux-x86_64.tar.gz": 4,
   "OmniMonitor-macOS-arm64.dmg": 3,
@@ -40,16 +41,16 @@
   "omnimonitor.ubuntu.amd64.deb": 3,
   "omnimonitor.ubuntu.arm64.deb": 3
  },
- "update_checks": 39,
+ "update_checks": 47,
  "update_checks_by_file": {
-  "update-linux-aarch64-deb.json": 4,
-  "update-linux-aarch64.json": 5,
-  "update-linux-x86_64-deb.json": 4,
-  "update-linux-x86_64.json": 9,
-  "update-macos-arm64.json": 5,
-  "update-macos-x86_64.json": 4,
-  "update-windows-arm64.json": 3,
-  "update-windows-x64.json": 5
+  "update-linux-aarch64-deb.json": 5,
+  "update-linux-aarch64.json": 6,
+  "update-linux-x86_64-deb.json": 5,
+  "update-linux-x86_64.json": 10,
+  "update-macos-arm64.json": 6,
+  "update-macos-x86_64.json": 5,
+  "update-windows-arm64.json": 4,
+  "update-windows-x64.json": 6
  },
  "note": "downloads = installers and packages downloaded from the downloads page (not installs from the dnf/apt repositories); update_checks = times an installed copy checked for updates",
  "history": [
@@ -60,8 +61,8 @@
   },
   {
    "date": "2026-11-26",
-   "downloads": 78,
-   "update_checks": 39
+   "downloads": 90,
+   "update_checks": 47
   }
  ]
 }
