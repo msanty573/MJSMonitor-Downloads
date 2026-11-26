@@ -1,4 +1,4 @@
-# MJSMonitor downloads
+# Download MJSMonitor
 
 Installers for **MJSMonitor** by [MJS Applications](https://mjsapps.net) — watch your servers,
 services and websites: red, yellow or green at a glance, with alerts when something goes down. This repository holds downloads only; the
@@ -39,8 +39,7 @@ first launch shows a warning:
   also Control-click MJSMonitor, choose **Open**, then **Open** again.)
 - **Windows:** if SmartScreen says "Windows protected your PC", click **More info →
   Run anyway**.
-- **Linux:** install the .deb (`sudo apt install ./mjsmonitor.ubuntu.*.deb`, which also sets
-  up updates through apt) or the RPM (`sudo dnf install ./mjsmonitor.el10.*.rpm`), or extract
+- **Linux:** install the .deb (`sudo apt install ./mjsmonitor.ubuntu.*.deb`) or the RPM (`sudo dnf install ./mjsmonitor.el10.*.rpm`), or extract
   the tar.gz and run `./install.sh`. To get RPM updates through dnf, add the repository once:
 
   ```
