@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T05:10:37+00:00",
+ "updated": "2026-11-28T02:12:04+00:00",
  "since": "2026-11-25",
  "downloads": 90,
  "by_platform": {
@@ -41,13 +41,13 @@
   "omnimonitor.ubuntu.amd64.deb": 3,
   "omnimonitor.ubuntu.arm64.deb": 3
  },
- "update_checks": 47,
+ "update_checks": 48,
  "update_checks_by_file": {
   "update-linux-aarch64-deb.json": 5,
   "update-linux-aarch64.json": 6,
   "update-linux-x86_64-deb.json": 5,
   "update-linux-x86_64.json": 10,
-  "update-macos-arm64.json": 6,
+  "update-macos-arm64.json": 7,
   "update-macos-x86_64.json": 5,
   "update-windows-arm64.json": 4,
   "update-windows-x64.json": 6
@@ -68,6 +68,11 @@
    "date": "2026-11-27",
    "downloads": 90,
    "update_checks": 47
+  },
+  {
+   "date": "2026-11-28",
+   "downloads": 90,
+   "update_checks": 48
   }
  ]
 }
